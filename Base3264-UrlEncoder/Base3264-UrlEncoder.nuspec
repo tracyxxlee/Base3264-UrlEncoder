@@ -22,4 +22,12 @@ Base64Url is more compact than Base32Url and it is almost always usable as a URL
     <copyright>Copyright Mhano Harkness and Eric Lau 2014-2017</copyright>
     <tags>base32 zbase32 z-base-32 base64url base64 crockford profanity Base3264Encoding Base32Url rfc4648</tags>
   </metadata>
+
+  <files>
+    <file src="..\LICENSE.md" target="" />
+    <file src="bin\Release\net5.0\Base3264-UrlEncoder.dll" target="lib\net5.0\Base3264-UrlEncoder.dll" />
+    <file src="bin\Release\net451\Base3264-UrlEncoder.dll" target="lib\net451\Base3264-UrlEncoder.dll" />
+    <file src="bin\Release\netcoreapp2.1\Base3264-UrlEncoder.dll" target="lib\netcoreapp2.1\Base3264-UrlEncoder.dll" />
+    <file src="bin\Release\netstandard2.0\Base3264-UrlEncoder.dll" target="lib\netstandard2.0\Base3264-UrlEncoder.dll" />
+  </files>
 </package>
