@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata>
     <id>Base3264-UrlEncoder</id>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <title>Base3264-UrlEncoder</title>
     <authors>Eric Lau, Mhano Harkness</authors>
     <owners>ericlau-solid, mhano</owners>
-    <licenseUrl>https://www.codeproject.com/info/cpol10.aspx</licenseUrl>
+    <license type="file">LICENSE.md</license>
     <projectUrl>https://github.com/ericlau-solid/Base3264-UrlEncoder/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>Support for crockford base32 encoding</releaseNotes>
